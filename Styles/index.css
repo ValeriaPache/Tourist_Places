@@ -94,7 +94,64 @@ img{
 .firstContainer{
     width: 100%;
     height: 15rem;
-    background-color: antiquewhite;
     display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
 }
+.img6{
+    background-image: url(../Assents/img/meta.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img7{
+    background-image: url(../Assents/img/boyaca.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img8{
+    background-image: url(../Assents/img/guatape.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img9{
+    background-image: url(../Assents/img/cali.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img10{
+    background-image: url(../Assents/img/medellin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.secondContainer{
+    width: 100%;
+    height: 15rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+.img11{
+    background-image: url(../Assents/img/pasto.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img12{
+    background-image: url(../Assents/img/san_andres.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img13{
+    background-image: url(../Assents/img/santa_marta.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.thirdContainer{
+    width: 60%;
+    height: 15rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+
 
