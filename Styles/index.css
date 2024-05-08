@@ -5,13 +5,13 @@
 }
 header{
     width: 100%;
-    height: 7rem;
+    height: 6rem;
     background-color: #090c5d;
     display: flex;   
 }
 h1{
     color:khaki;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     margin-left: 2.5rem;
     
 }
@@ -23,8 +23,8 @@ header > .subhead{
     align-content: center;
 }
 header > .icon{
-    width: 8%;
-    height: 5rem;
+    width: 5dvi;
+    height: 4rem;
     align-items: flex-end;
     margin-top: 1rem;
     
@@ -40,13 +40,13 @@ header > .icon{
 }
 .body{
     width: 100%;
-    height: 90rem;
+    height: 29.6rem;
     background-color: #2d47ff; 
 }
 .body > .firstBody{
     align-items: center;
     width: 70%;
-    height: 5rem;
+    height: 3rem;
     display: flex;
     justify-content: space-between;
     padding-top: 1rem;
@@ -62,96 +62,166 @@ header > .icon{
     background: linear-gradient(180deg,#2d47ff 0%, #d4e5ff 100%);
 }
 
-img{
-    width: 15rem;
-    height: 12rem;
-}
+
 .img1{
     background-image: url(../Assents/img/bogota.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img2{
     background-image: url(../Assents/img/barranquilla.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img3{
     background-image: url(../Assents/img/antioquia.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img4{
     background-image: url(../Assents/img/cartagena.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img5{
     background-image: url(../Assents/img/amazonas.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
-.firstContainer{
-    width: 100%;
-    height: 15rem;
+.body > .firstContainer{
+    width: 90%;
+    height: 9rem;
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
+    padding-left: 8rem;
+    
 }
 .img6{
     background-image: url(../Assents/img/meta.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img7{
     background-image: url(../Assents/img/boyaca.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img8{
     background-image: url(../Assents/img/guatape.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img9{
     background-image: url(../Assents/img/cali.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img10{
     background-image: url(../Assents/img/medellin.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .secondContainer{
-    width: 100%;
-    height: 15rem;
+    width: 90%;
+    height: 8rem;
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
+    padding-left: 8rem;
 }
 .img11{
     background-image: url(../Assents/img/pasto.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img12{
     background-image: url(../Assents/img/san_andres.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .img13{
     background-image: url(../Assents/img/santa_marta.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 12rem;
+    height: 6rem;
 }
 .thirdContainer{
-    width: 60%;
-    height: 15rem;
+    width: 74%;
+    height: 8rem;
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
+    padding-left: 22rem;
+}
+footer{
+        width: 100%;
+        height: 4.45rem;
+        background-color: #090c5d;
+        display: flex;
+        justify-content: center;     
 }
 
-
+.imgFooter1{
+    background-image: url(../Assents/img/whatsapp.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+}
+.imgFooter2{
+    background-image: url(../Assents/img/facebook.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+}
+.imgFooter3{
+    background-image: url(../Assents/img/instagram.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+}
+.imgFooter4{
+    background-image: url(../Assents/img/linkedin.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+}
+.iconsFooter{
+    width: 17%;
+    height: 4rem;
+    padding-top: 1rem;
+}
 
