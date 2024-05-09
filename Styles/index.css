@@ -61,7 +61,9 @@ header > .icon{
     cursor: pointer;
     background: linear-gradient(180deg,#2d47ff 0%, #d4e5ff 100%);
 }
-
+h4{
+    color:khaki;
+}
 
 .img1{
     background-image: url(../Assents/img/bogota.jpeg);
