@@ -177,7 +177,7 @@ header > .icon{
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-    padding-left: 22rem;
+    padding-left: 21.6rem;
 }
 footer{
         width: 100%;
@@ -224,5 +224,8 @@ footer{
     height: 4rem;
     padding-top: 1rem;
     padding-left: 3rem;
+}
+button{
+    border-radius: 5%;
 }
 
