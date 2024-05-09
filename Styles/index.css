@@ -12,8 +12,7 @@ header{
 h1{
     color:khaki;
     margin-bottom: 0.5rem;
-    margin-left: 2.5rem;
-    
+    margin-left: 9.8rem;   
 }
 header > .subhead{
     width: 80%;
@@ -37,6 +36,12 @@ header > .icon{
     border-radius: 7px;
     cursor: pointer;
     background: linear-gradient(180deg,#2d47ff 0%, #d4e5ff 100%);
+}
+.btnHeader{
+    width: 35%;
+    padding-left: 5rem;
+    display: flex;
+    justify-content: space-between;
 }
 .body{
     width: 100%;
